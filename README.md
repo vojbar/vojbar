@@ -1,7 +1,6 @@
 <h2>Hello 👋, I'm Vojtěch</h2>
 
-I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and Front-End Websites 
-Currently I'm working as a Discord BOT Developer and server Administrator at **[Duklock](https://discord.gg/vwj9WSgFbW)**.
+I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and Front-End Websites \n Currently I'm working as a Discord BOT Developer and server Administrator at **[Duklock](https://discord.gg/vwj9WSgFbW)**.
 - 🌐 Designing and developing websites.
 - 🌱 Learning more about C# and JavaScript.
 - 🔭 Exploring new things and developing them.
