@@ -13,5 +13,5 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 
 ### 📞 How can you reach me
 - ✉️ You can shoot me an email at **www.vojbar@seznam.cz**.
-- 💬 Also you can send me a message on Discord **(vojbar_#0001)**. 
+- 💬 Also you can send me a message on Discord **(vojbar_#2699)**. 
 
