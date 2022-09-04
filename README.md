@@ -13,6 +13,6 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 - 🥈 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web application development
 
 ### 📫 How can you reach me
-- 💬 You can shoot me an email at **www<area>.vojbar@seznam<area>.cz**.
-- 💬 Also you can send me a message on Discord **(vojbar_#2699)**. 
+- 💬 You can shoot me an email at **www<area>.vojbar@seznam<area>.cz**
+- 💬 Also you can send me a message on Discord **(vojbar_#2699)**
 
