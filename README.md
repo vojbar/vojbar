@@ -2,8 +2,8 @@
 
 I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and Front-End Websites Currently I'm working as a Discord BOT Developer and server Administrator at **[Duklock](https://discord.gg/vwj9WSgFbW)**.
 
-- 🌐 Developing applications in C#.
-- 🌐 Developing Discord Bots at discord.js
+- 🛠 Developing applications in C#.
+- 🤖 Developing Discord Bots at discord.js
 - 🌱 Learning more about C++ and JavaScript.
 - 🔭 Exploring new things and developing them.
 - ⛱ Playing drums and spending time on Discord during my free time.
