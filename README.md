@@ -12,7 +12,7 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 - 🥇 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/4y2VqGpzfE)** - Music Discord Bot
 - 🥈 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web application development
 
-### 📞 How can you reach me
-- 💬 You can shoot me an email at **www.vojbar@seznam.cz**.
+### 📫 How can you reach me
+- 💬 You can shoot me an email at **vojta.baron@seznam.cz**.
 - 💬 Also you can send me a message on Discord **(vojbar_#2699)**. 
 
