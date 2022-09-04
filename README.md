@@ -1,6 +1,7 @@
 <h2>Hello 👋, I'm Vojtěch</h2>
 
 I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and Front-End Websites Currently I'm working as a Discord BOT Developer and server Administrator at **[Duklock](https://discord.gg/vwj9WSgFbW)**.
+
 - 🌐 Designing and developing websites.
 - 🌱 Learning more about C# and JavaScript.
 - 🔭 Exploring new things and developing them.
@@ -8,7 +9,7 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 
 ### 🏆 Recent achievements 
 - 🏆 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Discord BOT development (Community Bot)
-- 🥇 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/7tfyzT2wEw)** - Discord BOT development (Music bot)
+- 🥇 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/7tfyzT2wEw)** - Discord BOT development (Music Bot)
 - 🥈 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web application development (Online version of Stream Deck)
 
 ### 📞 How can you reach me
