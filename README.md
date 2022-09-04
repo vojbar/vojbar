@@ -7,7 +7,7 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 - ⛱ Playing drums and spending time on Discord during my free time.
 
 ### 🏆 Recent achievements 
-- 🏆 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Discord Automod, YT Announcement BOT development (Botlock)
+- 🏆 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Discord Automod, YT Announcement, Message Log BOT development (Botlock)
 - 🥇 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/7tfyzT2wEw)** - Discord Music BOT development (Musicssie)
 - 🥈 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)**  - Web application development (StreamTouch)
 
