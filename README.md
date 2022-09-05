@@ -17,3 +17,5 @@ I develop Discord bots in `Javascript`, Windows Forms Applications in `C#` and F
 - 💬 You can shoot me an email at **www<area>.vojbar@seznam<area>.cz**
 - 💬 Also you can send me a message on Discord **(vojbar_#2699)**
 
+<br>[![Discord Presence](https://lanyard.cnrad.dev/api/:591905057541455881)](https://discord.com/users/:591905057541455881)
+
