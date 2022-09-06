@@ -1,9 +1,9 @@
 <h2>Hello 👋, I'm Vojtěch</h2>
 
-- 🔨 Recently developing in JavaScript
+- 🔨 Currently developing in JavaScript
 - 🌱 Learning more about C++ and C#
 - 🔭 Developer at Duklock Discord server
-- ⚡ Playing drums and spending time on Discord during my free time 2
+- ⚡ Playing drums and spending time on Discord during my free time 
 
 ### 🏆 Recent achievements 
 - 🏆 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Community Discord Bot
