@@ -2,8 +2,8 @@
 
 - 🔨 Currently developing in JavaScript
 - 🌱 Learning more about C++ and C#
-- 🔭 Developer at Duklock Discord server
-- ⚡ Playing drums and spending time on Discord during my free time 
+- 🔭 Looking for new challenges
+- ⚡ Playing drums and hitting the gym once in a while
 
 ### 🏆 Recent achievements 
 - 🏆 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Community Discord Bot
