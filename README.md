@@ -13,3 +13,5 @@
 ### 📫 How can you reach me
 - ✉️ You can shoot me an email at **www<area>.vojbar@seznam<area>.cz**
 - 💬 Also you can send me a message on Discord **vojbar_#2699**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/669899968567443477)](https://discord.com/users/669899968567443477)
