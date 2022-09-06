@@ -2,7 +2,7 @@
 
 - 🔨 Currently developing in JavaScript
 - 🌱 Learning more about C++ and C#
-- 🔭 Looking for new challenges
+- 🔭 Looking for new challenges and things to do
 - ⚡ Playing drums and hitting the gym once in a while
 
 ### 🏆 Recent achievements 
