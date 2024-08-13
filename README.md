@@ -12,6 +12,6 @@
 
 ### 📫 How can you reach me
 - ✉️ You can email me at my address **www<area>.vojbar@seznam<area>.cz**
-- 💬 Also you can send me a message on Discord **vojbar_**
+- 💬 Also you can send me a message on Discord **vojbar**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/591905057541455881)](https://discord.com/users/591905057541455881)
