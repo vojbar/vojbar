@@ -1,6 +1,6 @@
 <h2>Hello 👋, I'm Vojtěch</h2>
 
-- 🔨 Currently developing in JavaScript
+- 🔨 Currently developing in JavaScript, Java and Python
 - 🌱 Learning more about C++ and C#
 - 🔭 Looking for new challenges and things to do
 - ⚡ Playing drums and hitting the gym once in a while
