@@ -6,14 +6,12 @@
 - ⚡ Playing drums and hitting the gym once in a while
 
 ### 🏆 Recent achievements 
-- 2024 **Web developer on the minecraft server [rivergold](https://www.rivergold.cz/)**
-- 2023 **Collaboration with [Catus AirSoft](https://www.catus-airsoft.cz/)** 
-- 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Community Discord Bot
-- 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/4y2VqGpzfE)** - Music Discord Bot
-- 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web application development
-
+- 2023 **Collaboration with [Catus AirSoft](https://www.catus-airsoft.cz/)** - Web development and technical support
+- 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Development of community tools for the largest Czech and Slovak community Discord server
+- 2021 **Developer on the Discord server [ClubSelassie](https://discord.gg/4y2VqGpzfE)** - Development of community tools
+- 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web development and technical support
+> These are few selected projects and achievements from my development journey.
+> 
 ### 📫 How can you reach me
-- ✉️ You can email me at my address **www<area>.vojbar@seznam<area>.cz**
-- 💬 Also you can send me a message on Discord **vojbar**
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/591905057541455881)](https://discord.com/users/591905057541455881)
+- ✉️ You can email me at my address **[hello@vojtechbaron.com](mailto:hello@vojtechbaron.com)**
+- 💬 Also you can send me a message on Discord **vojbar_**
