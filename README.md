@@ -14,5 +14,5 @@
 > These are few selected projects and achievements from my development journey.
 
 ### 📫 How can you reach me
-- ✉️ You can email me at my address **hello@vojtechbaron.com**
+- ✉️ You can email me at my address **vojtabaron@email.cz**
 - 💬 Also you can send me a message on Discord **vojbar_**
