@@ -6,8 +6,8 @@
 - ⚡ Playing drums and hitting the gym once in a while
 
 ### 🤝 Current Roles
-- 🌎 **Associate Member at Students Can Grow**, currently serving as a **Regional Coordinator in the ET Department**
-- 🛠️ **Administrator & Developer for Duklock's Community**, currently working on **digital projects and community infrastructure**
+- 📍 **Associate Member at Students Can Grow**, currently serving as a **Regional Coordinator in the ET Department**
+- 📍 **Administrator & Developer for Duklock's Community**, currently working on **digital projects and community infrastructure**
 
 ### 🏆 Recent achievements 
 - 📍 2025 **Developer at Harbour University (Barcelona)** - Development of an event management application
@@ -19,4 +19,4 @@
 
 ### 📫 How can you reach me
 - ✉️ You can email me at my address **vojtabaron@email.cz**
-- 💬 Also you can send me a message on Discord **vojbar_**
+- ✉️ Also you can send me a message on Discord **vojbar_**
