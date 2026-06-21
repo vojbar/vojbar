@@ -5,6 +5,10 @@
 - 🔭 Looking for new challenges and things to do
 - ⚡ Playing drums and hitting the gym once in a while
 
+### 🤝 Current Roles
+- 🌎 **Associate Member at Students Can Grow**, currently serving as a **Regional Coordinator in the ET Department**
+- 🛠️ **Administrator & Developer for Duklock's Community**, currently working on **digital projects and community infrastructure**
+
 ### 🏆 Recent achievements 
 - 📍 2025 **Developer at Harbour University (Barcelona)** - Development of an event management application
 - 📍 2023 **Collaboration with [Catus AirSoft](https://www.catus-airsoft.cz/)** - Web development and technical support
