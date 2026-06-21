@@ -7,7 +7,7 @@
 
 ### 🤝 Current Roles
 - 📍 **Associate Member at Students Can Grow**, currently serving as a **Regional Coordinator in the ET Department**
-- 📍 **Administrator & Developer for Duklock's Community**, currently working on **digital projects and community infrastructure**
+- 📍 **Administrator & Developer for Duklock's Community**, currently working on **digital projects and infrastructure**
 
 ### 🏆 Recent achievements 
 - 📍 2025 **Developer at Harbour University (Barcelona)** - Development of an event management application
