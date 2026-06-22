@@ -13,9 +13,9 @@
 - 📍 2025 **Developer at Harbour University (Barcelona)** - Development of an event management application
 - 📍 2023 **Collaboration with [Catus AirSoft](https://www.catus-airsoft.cz/)** - Web development and technical support
 - 📍 2022 **Developer on the Discord server [Duklock](https://discord.gg/vwj9WSgFbW)** - Development of community tools
-- 📍 2021 **Developer on the Discord server [Selassie](https://discord.gg/4y2VqGpzfE)** - Development of community tools
+- 📍 2021 **Developer on the Discord server [Selassie](https://discord.gg/yJvZVPqtcG)** - Development of community tools
 - 📍 2021 **Collaboration with [StreamZone](https://www.streamzone.sk/)** - Web development and technical support
-> These are few selected projects and achievements from my development journey.
+> These are few selected projects and achievements from my development journey
 
 ### 📫 How can you reach me
 - ✉️ You can email me at my address **vojtabaron@email.cz**
