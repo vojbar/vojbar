@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pliant&weight=500&duration=4800&pause=1000&color=F7F7F7&width=435&lines=Hello+%F0%9F%91%8B%2C++I'm+Vojt%C4%9Bch+Baron)](https://git.io/typing-svg)
 ---
-- 🔨 Currently developing in JavaScript, Java and Python
+- 🔨 Currently developing in TypeScript, Java and Python
 - 🌱 Learning more about C++ and C#
 - 🔭 Looking for new challenges and things to do
 - ⚡ Playing drums and hitting the gym once in a while
